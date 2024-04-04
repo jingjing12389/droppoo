@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\droppoo-main\\my project (1)\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\droppoo-main\\my project (1)\\assets\\script\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\droppoo-main\\my project (1)\\assets\\script\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\droppoo-main\\my project (1)\\assets\\script\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Arrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Arrow.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Arrow.cs",
+              "RelativeToolTip": "Assets\\Script\\Arrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:13:32.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:01:30.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Player1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Player1.cs",
+              "RelativeToolTip": "Assets\\Script\\Player1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:12:11.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Target.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\droppoo-main\\My project (1)\\Assets\\Script\\Target.cs",
+              "RelativeToolTip": "Assets\\Script\\Target.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvw8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:31:35.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
